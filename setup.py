@@ -144,8 +144,8 @@ setup(
         'mock',
         'ofxparse',
         'passlib',
-        'pillow',  # windows binary http://www.lfd.uci.edu/~gohlke/pythonlibs/
-        'psutil',  # windows binary code.google.com/p/psutil/downloads/list
+        'pillow',  # windows binary https://pypi.python.org/pypi/Pillow/
+        'psutil',  # windows binary https://pypi.python.org/pypi?:action=display&name=psutil#downloads
         'psycogreen',
         'psycopg2 >= 2.2',
         'python-chart',
